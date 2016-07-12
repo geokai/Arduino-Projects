@@ -5,7 +5,7 @@ This project is based on [Dr Robert Paz'](https://www.youtube.com/user/DrZAP42/f
 ...and from [Kevin Darah's](https://www.youtube.com/user/kdarrah1234/featured) eqaually excellent tutorials: Rotary Encoder Tutorial with Arduino Code
 
 The .ffz file shows the *bread-board* set-up I used. The component values I used are also shown on the corresponding components although, the caps I used were the polyester type.
-The rotatry encoder I used incorporated a push button, unlike to the simple type and a separate *mode* button, shown in the Fritzing file.
+The rotatry encoder I used incorporated a push button, unlike the simple type with a separate *mode* button, shown in the Fritzing file.
 
 The rotary encoder pins are hardware de-bounced while the *mode* push button is de-bounced in software.
 
